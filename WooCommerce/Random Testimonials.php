@@ -21,7 +21,7 @@ function shuffle(a) {
 }
 
 var arr = [
-		"<p><em>'Comment 1'</em> - <strong>Name 1</strong></p>",
+	"<p><em>'Comment 1'</em> - <strong>Name 1</strong></p>",
         "<p><em>'Comment 2'</em> - <strong>Name 2</strong></p>",
         "<p><em>'Comment 3'</em> - <strong>Name 3</strong></p>",
         "<p><em>'Comment 4'</em> - <strong>Name 4</strong></p>",
@@ -65,7 +65,7 @@ function shuffle(a) {
 }
 
 var arr = [
-		"<p><em>'Comment 1'</em> - <strong>Name 1</strong></p>",
+	"<p><em>'Comment 1'</em> - <strong>Name 1</strong></p>",
         "<p><em>'Comment 2'</em> - <strong>Name 2</strong></p>",
         "<p><em>'Comment 3'</em> - <strong>Name 3</strong></p>",
         "<p><em>'Comment 4'</em> - <strong>Name 4</strong></p>",
